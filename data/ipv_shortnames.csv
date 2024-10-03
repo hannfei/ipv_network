@@ -1,0 +1,57 @@
+code,short_name
+AE01,Physical abuse
+AE02,Emotional abuse
+AE03,Sexual abuse
+AE04,"Abuse, not otherwise specified"
+AE05,Aggravated physical abuse
+AE06,Abuse minimized
+AE07,Less severe violence
+VB01,Victim blaming
+VB02,Blurring of victim/perpetrator
+CS01,Involvement of substances
+CS02,Living under bad circumstances
+CS03,Social isolation
+CS04,Have children
+CT01,"Controlling behavior, not otherwise specified"
+CT02,Jealousy and suspicion
+CT03,Limiting victim's social autonomy
+CT04,Limiting victim's financial autonomy
+DP01,Dependency
+GN01,Traditional gender values
+GN02,Skepticism of women's violence against men
+GN03,Victim is feminine
+GN04,Perpetrator is masculine
+MP01,"Manipulation, not otherwise specified"
+MP02,Perpetrator is manipulative
+MP03,Hiding abuse from others
+PT01,Perpetrator is mean-spirited
+PT02,Perpetrator lacks emotional control
+PT03,Perpetrator is aggressive
+PT04,Perpetrator is dominant
+PT05,Perpetrator is selfish
+PT06,Perpetrator has low self-esteem
+PT07,"Perpetrator is ""abusive type"""
+PT08,Perpetrator is extroverted
+PT09,Perpetrator has psychological problems
+PT10,Perpetrator is physically superior
+PT11,Perpetrator is smart/powerful
+PT12,Perpetrator is arrogant/confident
+RS01,Toxic relationship
+RS02,Relationship is not equal
+RS03,Power imbalance in favor of perpetrator
+RS04,Power imbalance in favor of victim
+RS05,Long-term relationship
+RS06,Uncommitted relationship
+RS07,Non-romantic relationship
+RS08,"Live together, see each other often"
+VT01,Victim is weak
+VT02,Victim has limited social life
+VT03,Victim has low self-esteem
+VT04,Victim is ashamed
+VT05,Victim is unassertive
+VT06,Victim is introverted
+VT07,Victim is kind-spirited
+VT08,Victim has psychological problems
+VT09,"Victm is scared, unable to self-defend"
+VT10,Victim is socially adept/assertive
+VT11,Victim considers aspects of relationship positive

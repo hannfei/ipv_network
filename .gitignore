@@ -1,0 +1,37 @@
+## Ignore Files
+
+# R specfic
+
+*.Rhistory
+
+*.Rproj.user
+
+*.Rproj
+
+# Scripts
+
+/R/ipv_networks_codes.R
+
+
+# Figures
+
+/figures/code_ae/
+/figures/code_main/
+/figures/code_pt/
+/figures/code_rs/
+/figures/code_vt/
+
+
+# Output
+
+/output/ipv_edges.csv
+
+
+
+
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+.quarto
