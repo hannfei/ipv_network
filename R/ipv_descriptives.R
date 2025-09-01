@@ -1,6 +1,8 @@
 ################################################################################
 
 # IPV descriptive statistics
+   # Updated: 2025-09-01
+   # Change: Excluded original CSV rows 5, 53, 71 from descriptives
 
 ################################################################################
 
@@ -16,6 +18,7 @@ ipv_raw_data <- read.csv("data/ipv_raw_data.csv")
 # Filter data
 
 ipv_descriptives <- ipv_raw_data %>%
+  filter(!row_number() %in% c(5, 53, 71)) %>% #2025-09-01: removing excluded participants
   select(Finished, 
          gender, 
          age, 
