@@ -17,3 +17,5 @@ install.packages(c( "readr", "dplyr", "stringr", "qgraph","psych",
                     "tidyr", "ggplot2","tidyverse", "stringr","foreach"))
 
 ```
+### Updates
+- 2025-09-01: Removed participants corresponding to original CSV rows 5, 53, and 71 from `ipv_descriptives.R`. These participants were identified as having invalid responses and were excluded from analysis, but were mistakenly included in the descriptive statistics. This update corrects the descriptive output and does not affect any other analyses or outputs.
